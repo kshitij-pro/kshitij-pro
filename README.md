@@ -14,6 +14,6 @@
 
 ### Contact me from here-
 
-Linkedin -  [kshitij kushwaha](https://www.linkedin.com/in/kshitij-kushwaha-a0a683137/)
+--> Linkedin -  [kshitij kushwaha](https://www.linkedin.com/in/kshitij-kushwaha-a0a683137/)
 
-Email - kshitijkushwaha373@gmail.com, 203190021@iitb.ac.in
+--> Email - kshitijkushwaha373@gmail.com, 203190021@iitb.ac.in
