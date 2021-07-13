@@ -17,3 +17,5 @@
 --> Linkedin -  [kshitij kushwaha](https://www.linkedin.com/in/kshitij-kushwaha-a0a683137/)
 
 --> Email - kshitijkushwaha373@gmail.com, 203190021@iitb.ac.in
+
+[![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshitij-pro)](https://github.com/anuraghazra/github-readme-stats)
