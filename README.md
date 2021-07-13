@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**kshitij-pro/kshitij-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Kshitij Kushwaha
 
-Here are some ideas to get you started:
+### About me-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--> Currently I am pusruing M.Tech in Industrial Engineering and Operations Research (IEOR) at IIT Bombay.
+
+--> Living in Mumbai, Maharashtra
+
+--> My area of interests are Machine Learning, Statistics, Operations analysis, and Vehicle Routing Problems.
+
+--> Currently focusing on Markov Decision Processes for modelling electical vehicle routing problem with public charging stations.
+
+### Contact me from here-
+
+Linkedin -  [kshitij kushwaha](https://www.linkedin.com/in/kshitij-kushwaha-a0a683137/)
+
+Email - kshitijkushwaha373@gmail.com, 203190021@iitb.ac.in
