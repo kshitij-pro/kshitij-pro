@@ -10,7 +10,6 @@
 
 --> My area of interests are Machine Learning, Statistics, Operations analysis, and Vehicle Routing Problems.
 
---> Currently focusing on Markov Decision Processes for modelling electical vehicle routing problem with public charging stations.
 
 ### Contact me from here-
 
